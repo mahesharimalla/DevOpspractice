@@ -1,1 +1,1 @@
-# DevOpspractice
+# DevOpsPractice
