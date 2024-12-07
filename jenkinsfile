@@ -1,3 +1,6 @@
+
+#Pipeline for gitHub integration with jenkins & installing the apache2 by using the jenkinsfile:
+
 pipeline {
     agent any
 
